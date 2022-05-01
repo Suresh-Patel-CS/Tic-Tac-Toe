@@ -15,7 +15,7 @@ display_board()
  
 # board
 # display 
-# play game
+# play game test
 # handle turn
 # check win
   # Check row
